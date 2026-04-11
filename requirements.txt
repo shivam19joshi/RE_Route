@@ -6,3 +6,4 @@ streamlit
 plotly
 folium
 streamlit_folium
+sklearn.ensemble
